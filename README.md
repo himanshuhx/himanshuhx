@@ -6,7 +6,27 @@
 <p align="center"> <samp> 
    I am a Fresher who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities. Currently enrolled in Computer Science and Engineering Programme at Dr. BC Roy Engineering College, Durgapur. I had worked on technologies like Android, Firebase Firestore, Wordpress and Firebase Realtime Database.I am currently looking forward to work to develop new skills.  
   </samp>
+<h3 align="center"> 👨🏽‍💻Tech Stack </h3>
+<p align="center">
+  <br>
+<code><img height="50" src="https://user-images.githubusercontent.com/65825310/88545138-2e320f00-d038-11ea-9996-835096c7a9c2.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://user-images.githubusercontent.com/65825310/88545009-017df780-d038-11ea-97be-860b3dd9420f.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://user-images.githubusercontent.com/65825310/88544890-c1b71000-d037-11ea-9489-0b2483b7ad0a.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://user-images.githubusercontent.com/65825310/88545254-5c175380-d038-11ea-9314-aa84fc22593d.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://user-images.githubusercontent.com/65825310/88545585-ce883380-d038-11ea-8289-3f65d0dae95e.png"></code>&nbsp;&nbsp;
+ <code><img height="50" src="https://user-images.githubusercontent.com/65825310/88545826-232bae80-d039-11ea-9b6b-b31ac75173b5.png"></code>&nbsp;&nbsp;
 </p><br>
+</p><br>
+
+</p><br>
+<h3  align='center'>Find me around the web 🌎 <img align="right" src="https://komarev.com/ghpvc/?username=himanshuhx&style=flat-square" /></h3><br>
+<p align='center'>
+    <a href="https://himanshuhx.github.io/portfolio.github.io/"><img src="https://img.shields.io/badge/Website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/himanshuhx/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/himanshu2418/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:himanshusumanpatna@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 <img src="https://user-images.githubusercontent.com/65825310/88541640-bd3c2880-d032-11ea-8f86-4f6ea6c8cc2c.gif" width="150" />
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-  </p>
+ </p>
