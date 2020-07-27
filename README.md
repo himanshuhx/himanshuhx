@@ -14,12 +14,17 @@
 <code><img height="50" src="https://user-images.githubusercontent.com/65825310/88544890-c1b71000-d037-11ea-9489-0b2483b7ad0a.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://user-images.githubusercontent.com/65825310/88545254-5c175380-d038-11ea-9314-aa84fc22593d.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://user-images.githubusercontent.com/65825310/88545585-ce883380-d038-11ea-8289-3f65d0dae95e.png"></code>&nbsp;&nbsp;
- <code><img height="50" src="https://user-images.githubusercontent.com/65825310/88545826-232bae80-d039-11ea-9b6b-b31ac75173b5.png"></code>&nbsp;&nbsp;
-</p><br>
+<code><img height="50" src="https://user-images.githubusercontent.com/65825310/88549503-fc23ab80-d03d-11ea-94d8-36822b0e26b5.jpg"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://user-images.githubusercontent.com/65825310/88545826-232bae80-d039-11ea-9b6b-b31ac75173b5.png"></code>&nbsp;&nbsp;
 </p><br>
 
 </p><br>
-<h3  align='center'>Find me around the web 🌎 <img align="right" src="https://komarev.com/ghpvc/?username=himanshuhx&style=flat-square" /></h3><br>
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuhx&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Himanshu's Github Stats">
+</p>
+</p><br>
+
+<h3  align='center'>Find me around the web 🌎 <img align="right" src="https://komarev.com/ghpvc/?username=himanshuhx&style=flat-square" /> </h3><br>
 <p align='center'>
     <a href="https://himanshuhx.github.io/portfolio.github.io/"><img src="https://img.shields.io/badge/Website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/himanshuhx/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
