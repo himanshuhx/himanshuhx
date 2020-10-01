@@ -27,7 +27,7 @@
 </p>
 <h3  align='center'>Find me around the web 🌎</h3><br>
 <p align='center'>
-    <a href="https://himanshuhx.github.io/portfolio.github.io/"><img src="https://img.shields.io/badge/Website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.himanshusumanportfolio.me/"><img src="https://img.shields.io/badge/Website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/himanshuhx/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/himanshu2418/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:himanshusumanpatna@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
