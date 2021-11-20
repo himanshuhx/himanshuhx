@@ -2,10 +2,6 @@
 
 <p align="center">
   <br><img src="https://user-images.githubusercontent.com/65825310/88541476-6fbfbb80-d032-11ea-8f4e-018180a50253.gif" width="450px"><br><br>
-<h3 align="center"> 🙋🏽‍♂️About Me </h3>
-<p align="center"> <samp> 
-   I am a Fresher who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities. Currently enrolled in Computer Science and Engineering Program at Dr. BC Roy Engineering College, Durgapur. I had worked on technologies like Android, Firebase Firestore, Wordpress and Firebase Realtime Database.I am currently looking forward to work to develop new skills.  
-  </samp>
 <h3 align="center"> 👨🏽‍💻Tech Stack </h3>
 <p align="center">
   <br>
@@ -27,11 +23,10 @@
 </p>
 <h3  align='center'>Find me around the web 🌎</h3><br>
 <p align='center'>
-    <a href="https://www.himanshusumanportfolio.me/"><img src="https://img.shields.io/badge/Website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/himanshuhx/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/himanshu2418/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:himanshusumanpatna@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:himanshuhx1221@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <img src="https://user-images.githubusercontent.com/65825310/88541640-bd3c2880-d032-11ea-8f86-4f6ea6c8cc2c.gif" width="150" />
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, lets have a coffee together ☕</b> :)</em>
  </p>
