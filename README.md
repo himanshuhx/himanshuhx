@@ -1,11 +1,6 @@
 <h2 align='center'> Hello there, I'm Himanshu 👋 🧑🏻‍💻 </h2>
-
 <p align="center">
   <br><img src="https://user-images.githubusercontent.com/65825310/88541476-6fbfbb80-d032-11ea-8f4e-018180a50253.gif" width="450px"><br><br>
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuhx&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Himanshu's Github Stats">
-</p>
 </p><br>
 <h3  align='center'>Find me around the web 🌎</h3><br>
 <p align='center'>
